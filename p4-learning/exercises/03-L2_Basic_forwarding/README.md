@@ -28,7 +28,7 @@ help you through the exercise.
 
 Remember that if the `l2` assignment strategy is enabled all devices will be automatically placed in the same
 subnet and ARP tables get automatically populated. This was already explained in the previous exercise session, for
-more information check [here](../01-Repeater/README.md#note-about-p4appjson).
+more information check [here](../02-Repeater/README.md#note-about-p4appjson).
 
 In this exercise you will need to fill some table entries as we did last week.
 If you used the control plane documentation page to fill tables, you probably used
